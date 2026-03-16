@@ -15,19 +15,18 @@
 ## 💡推荐客户端：
 
 Windows: v2rayN
+
 Android: v2rayNG / Clash Meta
+
 iOS: Shadowrocket / FoXray / Streisand
+
 Mac: V2RayU / Shadowrocket
+
 软路由passwall
 
 ## 🚀 一键安装命令
 
-在你的 VPS 终端（需 Root 权限）中粘贴并回车运行：
+在你的 VPS 终端（需 Root 权限）中粘贴并回车运行，安装完成后，终端会直接输出 VLESS-reality-singbox 链接以及 高清二维码。
 
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/liaodaobin/oneclick-VLESS-reality/main/install.sh)
-
-
-安装完成后，终端会直接输出 VLESS-reality-singbox 链接以及 高清二维码。
-
-
