@@ -12,6 +12,14 @@
 - 🛡️ **底层安全**：监听 `0.0.0.0` 兼容各种双栈或单栈 IPv4/IPv6 VPS，强制启用 `xtls-rprx-vision` 流控。
 - 📦 **极简纯净**：无任何多余面板和臃肿进程，只做纯粹的节点代理。
 
+## 💡推荐客户端：
+
+Windows: v2rayN
+Android: v2rayNG / Clash Meta
+iOS: Shadowrocket / FoXray / Streisand
+Mac: V2RayU / Shadowrocket
+软路由passwall
+
 ## 🚀 一键安装命令
 
 在你的 VPS 终端（需 Root 权限）中粘贴并回车运行：
@@ -19,11 +27,7 @@
 ```bash
 bash <(curl -Ls https://raw.githubusercontent.com/liaodaobin/oneclick-VLESS-reality/main/install.sh)
 
-安装完成后，终端会直接输出 VLESS-reality-singbox 链接以及 高清二维码。
-推荐客户端：
 
-Windows: v2rayN
-Android: v2rayNG / Clash Meta
-iOS: Shadowrocket / FoXray / Streisand
-Mac: V2RayU / Shadowrocket
-软路由passwall
+安装完成后，终端会直接输出 VLESS-reality-singbox 链接以及 高清二维码。
+
+
